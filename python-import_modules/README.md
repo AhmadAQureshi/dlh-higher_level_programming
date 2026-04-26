@@ -13,4 +13,6 @@ Task4- Who are you? - Script imports from a file containing list of names which 
 Task5- Everything can be imported - Script imports a variable from a file and prints.
 
 Task6- Advance Build my own calculator! - Script imports variables from a file and develop a calucator.
- 
+
+Task7- Advance Easy print - With the help of import of OS and without using print, string is directly printed onto screen.
+
