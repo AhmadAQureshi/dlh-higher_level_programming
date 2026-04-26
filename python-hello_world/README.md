@@ -10,3 +10,5 @@ Task3- Print string - Script prints a string multiple times using * (without usi
 
 Task4- Play with string - Script enables concatenation of two string along.
 
+Task5- Copy - Cut - Paste - Script uses the indexation technique to do copy, cut and paste. 
+
