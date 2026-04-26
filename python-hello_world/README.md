@@ -12,3 +12,5 @@ Task4- Play with string - Script enables concatenation of two string along.
 
 Task5- Copy - Cut - Paste - Script uses the indexation technique to do copy, cut and paste. 
 
+Task6- Create a new statement - Script uses indexation technique to create a new statement. 
+
