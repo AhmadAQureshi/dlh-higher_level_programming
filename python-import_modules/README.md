@@ -16,3 +16,5 @@ Task6- Advance Build my own calculator! - Script imports variables from a file a
 
 Task7- Advance Easy print - With the help of import of OS and without using print, string is directly printed onto screen.
 
+Task8- Advance ByteCode - Using Bytecode enables the wraping of code into bytecode.
+
