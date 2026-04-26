@@ -24,5 +24,6 @@ Task10- a+b - Script enables summation.
 
 Task11- a ^ b - Script calculates the power of number.
 
-Task12- Fizz Buzz - Fizzbuzz exercise replaces the number if certain condition met. 
+Task12- Fizz Buzz - Fizzbuzz exercise replaces the number if certain condition met.
+Task13- Advance Smile in the mirror - Script enables printing of alphabets with condition changing into uppercase and lowercase.
 
