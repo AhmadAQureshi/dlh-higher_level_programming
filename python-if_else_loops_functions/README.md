@@ -19,3 +19,6 @@ Task7- islower - Script imports and uses the ord funtion to retur character code
 Task8- To uppercase - Script imports and uses ord along with for loop to change alphabets into uppercase.
 
 Task9- There are only 3 colors, 10 digits, and 7 notes; it's what we do with them that's important - Scripts enable to find the last digit, print and return.
+
+Task10- a+b - Script enables summation.
+
