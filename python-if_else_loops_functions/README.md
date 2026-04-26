@@ -12,3 +12,5 @@ Task4- Hexadecimal printing - Using for loop, script writes hexa decimal.
 
 Task5- 00...99 - Using for loop, script write numbers with a comma.
 
+Task6- Inventing is a combination of brains and materials. The more brains you use, the less material you need - Using for loop, script write numbers with a comma.
+
