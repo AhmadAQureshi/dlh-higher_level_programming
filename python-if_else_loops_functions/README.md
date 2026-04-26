@@ -6,6 +6,9 @@ Task1- The last digit - Using if-else condition, script identifies the last digi
 
 Task2-  I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game - Script prints Alphabets without a newline using print, for loop along with "end=" not allowing to start a newline.
 
-Task3-When I was having that alphabet soup, I never thought that it would pay off - Script print all alphabets expcet q and e with the help of print function along with for loop.
+Task3- When I was having that alphabet soup, I never thought that it would pay off - Script print all alphabets expcet q and e with the help of print function along with for loop.
 
-Task4-Hexadecimal printing - Using for loop, script writes hexa decimal.
+Task4- Hexadecimal printing - Using for loop, script writes hexa decimal.
+
+Task5- 00...99 - Using for loop, script write numbers with a comma.
+
