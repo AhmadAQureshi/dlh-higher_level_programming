@@ -14,3 +14,5 @@ Task5- Copy - Cut - Paste - Script uses the indexation technique to do copy, cut
 
 Task6- Create a new statement - Script uses indexation technique to create a new statement. 
 
+Task7- Easter Egg - Script allows printing of The Zen of Python by TimPeters through an import function.
+
