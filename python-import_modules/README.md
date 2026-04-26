@@ -10,4 +10,7 @@ Task3- Infinite addition - Script takes input from terminal, add them together a
 
 Task4- Who are you? - Script imports from a file containing list of names which are printed later if met condition.
 
-Task5- Everything can be imported - Script imports the a variable from a file and prints. 
+Task5- Everything can be imported - Script imports a variable from a file and prints.
+
+Task6- Advance Build my own calculator! - Script imports variables from a file and develop a calucator.
+ 
