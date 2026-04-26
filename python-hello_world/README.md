@@ -8,3 +8,5 @@ Task2- Print float - Script prints float with two decimal digit without variable
 
 Task3- Print string - Script prints a string multiple times using * (without using loop or any conditional statement).
 
+Task4- Play with string - Script enables concatenation of two string along.
+
