@@ -1,2 +1,2 @@
 #!/usr/bin/python3
-print("%s" % "abcdefghijklmnopqrstuvwxyz", end="")
+print("{}".format("abcdefghijklmnopqrstuvwxyz"), end="")
