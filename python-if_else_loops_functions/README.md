@@ -24,3 +24,5 @@ Task10- a+b - Script enables summation.
 
 Task11- a ^ b - Script calculates the power of number.
 
+Task12- Fizz Buzz - Fizzbuzz exercise replaces the number if certain condition met. 
+
