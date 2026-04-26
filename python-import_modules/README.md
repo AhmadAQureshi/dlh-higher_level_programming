@@ -18,3 +18,5 @@ Task7- Advance Easy print - With the help of import of OS and without using prin
 
 Task8- Advance ByteCode - Using Bytecode enables the wraping of code into bytecode.
 
+Task9- Advance Fast alphabet - Script writes uppercase letter in oneline using string module.
+
