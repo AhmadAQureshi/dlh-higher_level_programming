@@ -9,3 +9,5 @@ Task2- Replace element - Scripts enables changing the list element at a given in
 Task3- Print a list of integers... in reverse! - Script changes the order of the list elements. It reverses the order; the first element becomes the last. 
 
 Task4- Replace in a copy - Script allows replacing an element of a list without altering the actual list 
+
+Task5- Can you C me now? - Script removes C and c from string. 
