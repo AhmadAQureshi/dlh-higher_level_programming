@@ -6,4 +6,4 @@ Task1- Secure access to an element in a list - Script allows identifying the lis
 
 Task2- Replace element - Scripts enables changing the list element at a given index. 
 
-Task3- Print a list of integers... in reverse! - Script changes the order of the list. 
+Task3- Print a list of integers... in reverse! - Script changes the order of the list elements. It reverse the order, the first element is going to be the last. 
