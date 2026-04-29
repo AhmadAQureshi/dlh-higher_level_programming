@@ -5,3 +5,5 @@ Task0 - Print a list of integers. Script enables printing integers; a function t
 Task1- Secure access to an element in a list - Script allows identifying the list element.
 
 Task2- Replace element - Scripts enables changing the list element at a given index. 
+
+Task3- Print a list of integers... in reverse! - Script changes the order of the list. 
