@@ -4,5 +4,6 @@ Repo contains all the tasks performed for Project 5- Python - if/else, loops, fu
 
 Repo contains all the tasks performed for Project 6- Python - import & modules
 
-Repo contain all the tasks performed for Project 7 - Data Structures
+Repo contains all the tasks performed for Project 7 - Data Structures
 
+Repo contains all the tasks performed for Project 8 - More Data Structures, Sets and Dictionary
